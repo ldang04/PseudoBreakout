@@ -27,3 +27,5 @@ Since I am unfortunately unable to deploy this program onto Github Pages like my
 a video of the game in action. 
 
 [![PseudoBreakoutIMG](https://img.youtube.com/vi/ed4BAeXcuc0/0.jpg)](https://youtu.be/ed4BAeXcuc0)
+
+(Click on the image to go to a linked YouTube demo)
