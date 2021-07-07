@@ -25,3 +25,5 @@ into your command line.
 
 Since I am unfortunately unable to deploy this program onto Github Pages like my other projects, I have included (or at least tried to include)
 a video of the game in action. 
+
+[![PseudoBreakoutIMG](https://img.youtube.com/vi/ed4BAeXcuc0/0.jpg)](https://youtu.be/ed4BAeXcuc0)
