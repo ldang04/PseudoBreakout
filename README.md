@@ -1,5 +1,5 @@
-# PseudoBreakout Project
-
+# PseudoBreakout 
+## About this project
 The PseudoBreakout project is a simplified version of the popular arcade game "Breakout", which I completed for my Computer Science I (COSC-051-10) class 
 at Georgetown University this summer (July 2021). This program includes collision detection and user-control features that I fully implemented using C++ , with
 help from the [SFML](https://www.sfml-dev.org/tutorials/2.5/) library. 
